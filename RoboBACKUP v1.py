@@ -166,7 +166,7 @@ start_button.grid(row=4, columnspan=3)
 status_label.grid(row=5, columnspan=3)
 
 # Copyright label
-copyright_label = tk.Label(root, text="© by Navarro County IT Department\nKevin Bussard", anchor="se")
+copyright_label = tk.Label(root, text="© by K. Bussard", anchor="se")
 copyright_label.grid(row=6, column=2, sticky="se", padx=10, pady=10)
 
 root.mainloop()
