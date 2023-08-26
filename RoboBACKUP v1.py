@@ -143,7 +143,7 @@ add_button = tk.Button(root, text="Add Source", command=browse_source)
 remove_button = tk.Button(root, text="Remove Source", command=remove_source)
 
 dest_label = tk.Label(root, text="Destination Path:")
-dest_entry = tk.Entry(root)
+dest_entry = tk.Entry(root, width=80)
 browse_dest_button = tk.Button(root, text="Browse", command=browse_destination)
 
 load_destination_from_file()
