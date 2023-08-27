@@ -197,7 +197,7 @@ root = tk.Tk()
 root.title("RoboBackup v1.5")
 
 window_width = 720
-window_height = 630
+window_height = 660
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
 x_pos = (screen_width - window_width) // 2
