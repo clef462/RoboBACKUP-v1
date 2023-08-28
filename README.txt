@@ -16,3 +16,8 @@ robocopy functions. It defaults to the predefined functions from v1.1 but allows
 the user to create a log of the backup. It will create a separate log file for each Source folder. This log will be located at the 
 Destination Folder. There is also a visual printout of the complete robocopy function
 located at the bottom of the window. A little bit more advanced, but still user friendly and simple to use.
+
+
+if you wish to donate to my work or future projects, 
+you can donate to my cashapp at $clef462
+Thank you!
